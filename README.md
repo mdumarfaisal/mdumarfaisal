@@ -1,68 +1,59 @@
-<!-- Banner Title -->
-<h1 align="center">⚡ Creative Developer | AI Explorer | IoT Innovator ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+AI%2FML+Learner;IoT+Systems+Builder+%7C+ESP32+Expert;Turning+Ideas+Into+Reality+🚀;Welcome+to+my+Digital+Workspace!">
-</p>
+<!-- Premium Gradient Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Explorer+%7C+Android+Developer;IoT+Architect+%7C+Creative+Problem+Solver;Building+Experiences+Through+Code+🔥;Welcome+to+My+Digital+Universe!">
+</h1>
 
 ---
 
-## 👋 Hey, I’m **Umar Faisal**  
-A passionate **Full Stack Developer**, **AI/ML enthusiast**, and **IoT creator** who loves building real-world solutions.
+## 👋 Hey, I'm **Umar Faisal**
 
-- 🚀 MERN Stack Developer  
-- 🤖 Exploring AI, Machine Learning & NLP  
-- 🌱 IoT Systems (ESP32, Sensors, Blynk)  
-- 🛠 Built 20+ real-world engineering projects  
-- 🏅 Avishkaar Makeathon — AIR 15  
-- 📚 Always learning. Always improving. Always building.
+A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innovator** dedicated to turning ideas into real, working technology.
 
----
-
-# 🧰 Tech Arsenal (Premium)
-## 🎨 **Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
-</p>
-
-## ⚙️ **Backend & Databases**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-</p>
-
-## 📱 **Mobile Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-</p>
-
-## 🧠 **Programming Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-</p>
-
-## 🔌 **IoT / Hardware**
-<p>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sensors-IoT-blue?style=for-the-badge"/>
-</p>
+### 🧩 What I Do
+- 🌐 **MERN Stack Development**  
+- 📱 **Android App Development (Kotlin + Java + Jetpack)**  
+- 🤖 **AI/ML & NLP Experiments**  
+- ⚡ **IoT Architect (ESP32 + Sensors + Cloud)**  
+- 🛠 Built **20+ real-world engineering projects**  
+- 🏅 **Avishkaar Makeathon — AIR 15 Winner**  
+- 🚀 Forever curious. Forever building.
 
 ---
 
-# 📊 GitHub Performance (Premium UI)
+# 🧰 Tech Arsenal (Glassmorphism Edition)
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="200"/>
+
+</td>
+<td align="center" width="250">
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" width="200"/>
+
+</td>
+<td align="center" width="250">
+
+### 📱 Android Development
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" width="200"/>
+
+</td>
+<td align="center" width="250">
+
+### 🧠 Programming Languages
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp" width="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Performance Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdumarfaisal&theme=tokyonight" width="90%"/>
@@ -75,18 +66,41 @@ A passionate **Full Stack Developer**, **AI/ML enthusiast**, and **IoT creator**
 
 ---
 
-# 🚀 Featured Projects  
-### 🔹 **Plant Monitoring System (ESP32 + Blynk)**
-Smart IoT soil monitoring with buzzer alerts + mobile dashboard.
+# 🐍 Animated Contribution Snake  
+<p align="center">
+  <img src="https://github.com/mdumarfaisal/mdumarfaisal/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 🔹 **Salon Appointment Booking System (MERN)**  
-A complete booking and scheduling platform for salons/barbers.
+> ⚠️ Snake animation setup given at bottom.
 
-### 🔹 **Vehicle Inspection System (React + PDF)**  
-Speech-enabled inspection forms + auto-generated reports.
+---
+
+# 🚀 Featured Projects (Elite Cards)
+
+### 🔹 **Plant Monitoring System — IoT + Automation**  
+Smart ESP32-based soil monitoring system with buzzer alerts + mobile dashboard.
+
+---
+
+### 🔹 **Salon Appointment Booking System — MERN**  
+An advanced scheduling platform for salons and barbers.
+
+---
+
+### 🔹 **Vehicle Inspection System — React + PDF Automation**  
+Speech-enabled inspection forms + automatic PDF-generated reports.
+
+---
 
 ### 🔹 **Freelancer Home Services Platform**  
-Connecting users with professional home service providers.
+A digital marketplace connecting users to professional service providers.
+
+---
+
+# 📈 Profile Visitors  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdumarfaisal&label=Visitors&color=0e75b6&style=flat-square" />
+</p>
 
 ---
 
@@ -99,5 +113,15 @@ Connecting users with professional home service providers.
 
 ---
 
-# ❤️ Support My Work  
-If you enjoy my projects, consider giving a ⭐ — it motivates me to build more!
+# ⚡ Animated Wave Footer  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%">
+</p>
+
+---
+
+# 🐍 Snake Animation Setup (Important)
+
+To enable the snake:
+
+### 1️⃣ Create file:
