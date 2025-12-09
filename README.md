@@ -67,4 +67,67 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdumarfaisal&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🐍 Animated Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/mdumarfaisal/mdumarfaisal/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ Snake animation setup given at bottom.
+
+---
+
+# 🚀 Featured Projects (Elite Cards)
+
+### 🔹 **Plant Monitoring System — IoT + Automation**  
+Smart ESP32-based soil monitoring system with buzzer alerts + mobile dashboard.
+
+---
+
+### 🔹 **Salon Appointment Booking System — MERN**  
+An advanced scheduling platform for salons and barbers.
+
+---
+
+### 🔹 **Vehicle Inspection System — React + PDF Automation**  
+Speech-enabled inspection forms + automatic PDF-generated reports.
+
+---
+
+### 🔹 **Freelancer Home Services Platform**  
+A digital marketplace connecting users to professional service providers.
+
+---
+
+# 📈 Profile Visitors  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mdumarfaisal&label=Visitors&color=0e75b6&style=flat-square" />
+</p>
+
+---
+
+# 🌐 Connect With Me  
+
+<p>
+  <a href="mailto:mdumarfaisalpvt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+</p>
+
+---
+
+# ⚡ Animated Wave Footer  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" width="100%"/>
+</p>
+
+---
+
