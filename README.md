@@ -16,22 +16,23 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mdumarfaisal/github-stats/master/generated/overview.svg"
-    alt="GitHub Stats"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdumaisal&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mdumarfaisal/github-stats/master/generated/languages.svg"
-    alt="Top Languages"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdumaisal&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
   />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -57,6 +58,7 @@
 ---
 
 ## 🚀 Featured Projects
+
 ### 🔹 **Plant Monitoring System (ESP32 + Blynk)**
 Smart soil moisture tracking system with automatic buzzer alerts + mobile monitoring.
 
