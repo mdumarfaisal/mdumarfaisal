@@ -12,7 +12,7 @@
 - 🏅 Avishkaar Makeathon AIR 15
 
 ---
-## 🔥 GitHub Stats
+
 ## 🔥 GitHub Stats
 
 <p align="center">
