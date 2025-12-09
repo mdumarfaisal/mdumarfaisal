@@ -13,17 +13,27 @@
 
 ---
 ## 🔥 GitHub Stats
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=mdumarfaisal&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdumarfaisal&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdumarfaisal&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mdumarfaisal&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mdumarfaisal&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdumarfaisal&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---
