@@ -1,93 +1,99 @@
-<h1 align="center">Hi, I'm Umar 👋</h1>
-<h3 align="center">Full Stack Developer | AI/ML Learner | IoT Enthusiast</h3>
-
----
-
-## 🚀 About Me
-- 🎓 CSE Student (3rd Year)  
-- 💻 MERN Stack Developer  
-- 🤖 Exploring AI/ML + NLP  
-- 🌱 Building IoT systems (ESP32, Sensors, Blynk)  
-- 🛠️ Created multiple real-world projects under Atal Tinkering Lab  
-- 🏅 Avishkaar Makeathon AIR 15
-
----
-
-## 🔥 GitHub Stats
-
-<!-- Profile details big card -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdumarfaisal&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<!-- Stats + languages -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
+<!-- Header Banner -->
+<h1 align="center">✨ Umar Faisal — Full Stack Developer ✨</h1>
+<h3 align="center">MERN Stack • AI/ML • IoT • NLP • Problem Solver</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdumarfaisal&theme=tokyonight"
-    alt="Top Languages by Repo"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Learner;IoT+Systems+Builder;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+- 🎓 **3rd Year CSE Student**  
+- 💻 **MERN Stack Developer** (React + Node + Express + MongoDB)  
+- 🤖 Passionate about **AI/ML, NLP & Automation**  
+- 🌱 Building **IoT systems** (ESP32 + Sensors + Blynk)  
+- 🛠️ Built 20+ real projects under Atal Tinkering Lab  
+- 🏅 **Avishkaar Makeathon — AIR 15 Winner**  
+- 🔥 Always learning. Always building.
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+---
+
+## 🧰 Tech Arsenal
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,js" />
+</p>
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### **AI / Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ### **IoT / Hardware**
-![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-IoT-blue)
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-IoT-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Premium GitHub Stats
+
+### 🔹 Profile Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdumarfaisal&theme=tokyonight" width="90%"/>
+</p>
+
+### 🔹 Stats + Languages  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdumarfaisal&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 **Plant Monitoring System (ESP32 + Blynk)**
-Smart soil moisture tracking system with automatic buzzer alerts + mobile monitoring.
+IoT moisture monitoring system with buzzer + mobile dashboard.
 
-### 🔹 **Salon Appointment Booking System**  
-Full MERN stack app for managing barber/salon appointment scheduling.
+### 🔹 **Salon Appointment Booking System (MERN)**
+Full-stack appointment management for barbers/salons.
 
-### 🔹 **Vehicle Inspection System (React + PDF Export)**  
-Multi-step inspection forms, speech recognition, and auto PDF generation.
+### 🔹 **Vehicle Inspection System**
+Multi-step forms + speech recognition + PDF export.
 
-### 🔹 **Freelancer Home Services Platform**  
-Connects users to skilled service providers (plumbing, electrician, etc.).
-
----
-
-## 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdumarfaisalpvt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com)
+### 🔹 **Freelancer Home Services Platform**
+Connects users to local skilled service providers.
 
 ---
 
-## ❤️ Support
-If you like my projects, consider giving a ⭐ to the repositories!
+## 🤝 Connect With Me  
+<p align="left">
+  <a href="mailto:mdumarfaisalpvt@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+## ❤️ Support My Work  
+If you like my projects, please ⭐ my repositories — it motivates me to build more!
