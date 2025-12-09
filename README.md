@@ -27,7 +27,13 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
 <td align="center" width="250">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="200"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+</p>
 
 </td>
 <td align="center" width="250">
@@ -46,13 +52,22 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
 <td align="center" width="250">
 
 ### 📱 Android Development
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" width="200"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</p>
 
 </td>
 <td align="center" width="250">
 
 ### 🧠 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp" width="200"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
 
 </td>
 </tr>
@@ -116,9 +131,15 @@ A digital marketplace connecting users to professional service providers.
 # 🌐 Connect With Me  
 
 <p>
-  <a href="mailto:mdumarfaisalpvt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="mailto:mdumarfaisalpvt@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
 </p>
 
 ---
@@ -131,3 +152,30 @@ A digital marketplace connecting users to professional service providers.
 
 ---
 
+# 🐍 Snake Animation Setup (Important)
+
+This repository uses the following workflow to generate the contribution snake:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mdumarfaisal
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
