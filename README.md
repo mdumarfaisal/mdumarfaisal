@@ -50,7 +50,7 @@
 
 ### **IoT / Hardware**
 <p>
-  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
 </p>
 
 ---
