@@ -22,29 +22,35 @@
 ## 🧰 Tech Arsenal
 
 ### **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,js" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
 </p>
 
 ### **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
 </p>
 
 ### **Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
 
 ### **AI / Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50"/>
 </p>
 
 ### **IoT / Hardware**
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors-IoT-blue?style=for-the-badge" />
 </p>
 
 ---
