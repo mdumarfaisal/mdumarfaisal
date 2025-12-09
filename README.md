@@ -15,17 +15,26 @@
 
 ## 🔥 GitHub Stats
 
+<!-- Profile details big card -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdumaisal&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdumarfaisal&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<!-- Stats + languages -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdumaisal&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdumarfaisal&theme=tokyonight"
+    alt="Top Languages by Repo"
   />
 </p>
 
