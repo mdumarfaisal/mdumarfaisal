@@ -33,7 +33,14 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
 <td align="center" width="250">
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" width="200"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="45"/>
+</p>
 
 </td>
 <td align="center" width="250">
@@ -60,68 +67,4 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdumarfaisal&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 🐍 Animated Contribution Snake  
-<p align="center">
-  <img src="https://github.com/mdumarfaisal/mdumarfaisal/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ Snake animation setup given at bottom.
-
----
-
-# 🚀 Featured Projects (Elite Cards)
-
-### 🔹 **Plant Monitoring System — IoT + Automation**  
-Smart ESP32-based soil monitoring system with buzzer alerts + mobile dashboard.
-
----
-
-### 🔹 **Salon Appointment Booking System — MERN**  
-An advanced scheduling platform for salons and barbers.
-
----
-
-### 🔹 **Vehicle Inspection System — React + PDF Automation**  
-Speech-enabled inspection forms + automatic PDF-generated reports.
-
----
-
-### 🔹 **Freelancer Home Services Platform**  
-A digital marketplace connecting users to professional service providers.
-
----
-
-# 📈 Profile Visitors  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdumarfaisal&label=Visitors&color=0e75b6&style=flat-square" />
-</p>
-
----
-
-# 🌐 Connect With Me  
-<p>
-  <a href="mailto:mdumarfaisalpvt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-</p>
-
----
-
-# ⚡ Animated Wave Footer  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%">
-</p>
-
----
-
-# 🐍 Snake Animation Setup (Important)
-
-To enable the snake:
-
-### 1️⃣ Create file:
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdumarfaisal&theme=tokyonight
