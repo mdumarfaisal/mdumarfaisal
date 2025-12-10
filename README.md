@@ -132,7 +132,7 @@ A digital marketplace connecting users to professional service providers.
 
 <p>
   <a href="mailto:mdumarfaisalpvt@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40"/>
   </a>
   <a href="https://linkedin.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
