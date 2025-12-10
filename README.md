@@ -94,7 +94,6 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
   <img src="https://github.com/mdumarfaisal/mdumarfaisal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ Snake animation setup given at bottom.
 
 ---
 
@@ -152,30 +151,4 @@ A digital marketplace connecting users to professional service providers.
 
 ---
 
-# 🐍 Snake Animation Setup (Important)
 
-This repository uses the following workflow to generate the contribution snake:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mdumarfaisal
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
