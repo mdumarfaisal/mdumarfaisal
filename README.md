@@ -33,6 +33,7 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+
 </p>
 
 </td>
