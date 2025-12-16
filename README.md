@@ -46,7 +46,7 @@ A passionate **Android Developer**, **Full Stack Engineer**, and **AI/IoT Innova
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="45"/> -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="45"/>
 </p>
 
 </td>
