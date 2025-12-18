@@ -1,4 +1,4 @@
-<!-- Premium Gradient Banner -->
+<!--- Premium Gradient Banner -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Explorer+%7C+Android+Developer;IoT+Architect+%7C+Creative+Problem+Solver;Building+Experiences+Through+Code+🔥;Welcome+to+My+Digital+Universe!">
 </h1>
